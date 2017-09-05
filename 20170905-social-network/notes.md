@@ -1,0 +1,2 @@
+- global color #FF5630
+- title
