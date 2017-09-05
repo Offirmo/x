@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<!-- html5_006 : WTE micro template -->
+
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>Offirmo’s experiments</title>
+
+	<!-- http://bettermotherfuckingwebsite.com/ -->
+	<style type="text/css">
+		body {
+			margin: 40px auto;
+			font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+			color: #333;
+			max-width: 650px;
+			line-height: 1.6;
+			font-size: 16px;
+			padding: 0 10px
+		}
+		h1, h2, h3 {
+			line-height: 1.2
+		}
+	</style>
+</head>
+
+<p>This is not the site you are looking for. Head <a href="www.offirmo.net">here</a> instead.</p>
+<script>
+	document.querySelector('h1').textContent = document.title
+	Array.prototype.forEach.call(document.querySelectorAll('a'), function(el) {
+		el.href || (el.href = el.text)
+	})
+</script>
+
+
