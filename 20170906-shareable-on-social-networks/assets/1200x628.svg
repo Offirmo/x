@@ -113,11 +113,32 @@
            x="282.84271"
            y="60.29427" /></flowRegion><flowPara
          id="flowPara892">X 628 x 942 px</flowPara></flowRoot>    <rect
-       y="159.69368"
-       x="1.0707476"
-       height="108.45434"
-       width="315.35849"
+       y="135.82457"
+       x="2.6016388"
+       height="156.19257"
+       width="312.29672"
        id="rect827"
-       style="opacity:0.5;fill:none;fill-opacity:1;stroke:#0084b4;stroke-width:2.14149523;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98578198;paint-order:normal" />
+       style="opacity:0.5;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.55743885;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98578197;paint-order:normal" />
+    <rect
+       style="opacity:0.5;fill:none;fill-opacity:1;stroke:#007bb6;stroke-width:2.62759471;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect829"
+       width="314.87238"
+       height="163.53073"
+       x="1.3137974"
+       y="132.15549" />
+    <rect
+       style="opacity:0.80500034;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.40813184;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98578198;paint-order:normal"
+       id="rect831"
+       width="98.06031"
+       height="79.559593"
+       x="10.000874"
+       y="143.75835" />
+    <rect
+       y="151.77643"
+       x="18.553499"
+       height="79.559593"
+       width="98.06031"
+       id="rect833"
+       style="opacity:0.80500034;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.40813184;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98578198;paint-order:normal" />
   </g>
 </svg>
