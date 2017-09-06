@@ -40,7 +40,7 @@
 	<meta property="og:type"         content="article"> <!-- ?? forced to website by facebook ? -->
 	<meta property="og:title"        content="The ultimate socially shareable page">
 	<meta property="og:description"  content="A clear description, at least two sentences long. The ultimate socially shareable page"> <!-- at least two sentences long -->
-	<meta property="og:image"        content="http://www.offirmo.net/x/20170906-shareable-on-social-networks/assets/1200x630-meta.png">
+	<meta property="og:image"        content="http://www.offirmo.net/x/20170906-shareable-on-social-networks/assets/1200x630-meta.png"> <!-- must be a full url -->
 	<meta property="og:image:width"  content="1200">
 	<meta property="og:image:height" content="630">
 	<meta property="og:image:alt"    content="The description of the image for accessibility.">
@@ -62,6 +62,11 @@
 	<meta name="twitter:image"       content="http://www.offirmo.net/x/20170906-shareable-on-social-networks/assets/2048x1024-meta.png">
 	<meta name="twitter:image"       content="http://www.offirmo.net/x/20170906-shareable-on-social-networks/assets/2048x1024-meta.png">
 	<meta name="twitter:image:alt"   content="A text description of the image conveying the essential nature of an image to users who are visually impaired. Maximum 420 characters.">
+
+
+	<!-- LinkedIn is picking og:title and og:description -->
+
+
 
 
 	<!-- http://bettermotherfuckingwebsite.com/ -->
@@ -86,5 +91,37 @@
 <h2>The ultimate socially shareable page</h2>
 <p>Share me on any social network!</p>
 
+
+<!-- https://developers.facebook.com/docs/plugins/share-button/# -->
+<!-- Load Facebook SDK for JavaScript -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+	var js, fjs = d.getElementsByTagName(s)[0];
+	if (d.getElementById(id)) return;
+	js = d.createElement(s); js.id = id;
+	js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1";
+	fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!-- Your share button code -->
+<div class="fb-share-button"
+	data-href="http://www.your-domain.com/your-page.html"
+	data-layout="button_count">
+</div>
+<!-- Your send button code -->
+<div class="fb-send"
+	data-href="http://www.your-domain.com/your-page.html"
+	data-layout="button_count">
+</div>
+
+<!-- https://developer.linkedin.com/plugins/share -->
 <script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
 <script type="IN/Share" data-counter="right"></script>
+
+
+<!-- https://dev.twitter.com/web/tweet-button -->
+<!-- https://dev.twitter.com/web/tweet-button/web-intent -->
+<!-- TODO url, hashtags... -->
+<a class="twitter-share-button"
+	href="https://twitter.com/intent/tweet?text=Hello%20world&url="
+	data-size="large">
+	Tweet</a>
