@@ -15,7 +15,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="drawing.svg">
+   sodipodi:docname="1200x628.svg"
+   inkscape:export-filename="/Users/yjutard/work/src/off/x/20170906-shareable-on-social-networks/assets/1200x628.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -26,7 +29,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="563.10208"
+     inkscape:cx="199.44717"
      inkscape:cy="394.99938"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -34,7 +37,7 @@
      units="px"
      width="1800px"
      inkscape:window-width="1884"
-     inkscape:window-height="1059"
+     inkscape:window-height="1058"
      inkscape:window-x="1714"
      inkscape:window-y="0"
      inkscape:window-maximized="0" />
@@ -46,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -56,7 +59,7 @@
      id="layer1"
      transform="translate(0,-130.84168)">
     <rect
-       style="fill:none;fill-opacity:1;stroke:#00ced6;stroke-width:2.62759471;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;opacity:0.5"
+       style="fill:none;fill-opacity:1;stroke:#0077b5;stroke-width:2.62759471;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0;paint-order:normal;opacity:0.5"
        id="rect815"
        width="314.87241"
        height="163.53073"
@@ -75,20 +78,20 @@
        height="163.53551"
        width="293.647"
        id="rect858"
-       style="opacity:0.5;fill:none;fill-opacity:1;stroke:#0021d6;stroke-width:2.62282872;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+       style="opacity:0.805;fill:none;fill-opacity:1;stroke:#3b5998;stroke-width:2.62282872;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot860"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,45.457175,130.84168)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,21.432802,166.12126)"><flowRegion
          id="flowRegion862"><rect
            id="rect864"
-           width="339.41125"
-           height="90.913734"
+           width="505.07626"
+           height="86.873131"
            x="282.84271"
            y="60.29427" /></flowRegion><flowPara
-         id="flowPara866">628 x 1200 px</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,41.715402,171.46665)"
+         id="flowPara866">LinkedIn 628 x 1200 px</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,19.846336,191.52376)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot886"
        xml:space="preserve"><flowRegion
@@ -98,16 +101,23 @@
            height="137.38075"
            width="646.49762"
            id="rect880" /></flowRegion><flowPara
-         id="flowPara884">628 x 1120 px</flowPara></flowRoot>    <flowRoot
+         id="flowPara884">facebook 628 x 1120 px</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot894"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,43.319019,207.81531)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,43.726015,218.50609)"><flowRegion
          id="flowRegion890"><rect
            id="rect888"
            width="646.49762"
            height="137.38075"
            x="282.84271"
            y="60.29427" /></flowRegion><flowPara
-         id="flowPara892">628 x 942 px</flowPara></flowRoot>  </g>
+         id="flowPara892">X 628 x 942 px</flowPara></flowRoot>    <rect
+       y="159.69368"
+       x="1.0707476"
+       height="108.45434"
+       width="315.35849"
+       id="rect827"
+       style="opacity:0.5;fill:none;fill-opacity:1;stroke:#0084b4;stroke-width:2.14149523;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98578198;paint-order:normal" />
+  </g>
 </svg>
