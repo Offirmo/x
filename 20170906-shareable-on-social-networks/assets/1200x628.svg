@@ -16,7 +16,7 @@
    id="svg8"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    sodipodi:docname="1200x628.svg"
-   inkscape:export-filename="/Users/yjutard/work/src/off/x/20170906-shareable-on-social-networks/assets/1200x628.png"
+   inkscape:export-filename="/Users/yjutard/work/src/off/x/20170906-shareable-on-social-networks/assets/1200x628-page.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -29,16 +29,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="199.44717"
+     inkscape:cx="474.37376"
      inkscape:cy="394.99938"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      width="1800px"
-     inkscape:window-width="1884"
-     inkscape:window-height="1058"
-     inkscape:window-x="1714"
+     inkscape:window-width="1646"
+     inkscape:window-height="1028"
+     inkscape:window-x="31"
      inkscape:window-y="0"
      inkscape:window-maximized="0" />
   <metadata
@@ -59,7 +59,7 @@
      id="layer1"
      transform="translate(0,-130.84168)">
     <rect
-       style="fill:none;fill-opacity:1;stroke:#0077b5;stroke-width:2.62759471;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0;paint-order:normal;opacity:0.5"
+       style="fill:none;fill-opacity:1;stroke:#0077b5;stroke-width:2.62759471;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;opacity:0.5"
        id="rect815"
        width="314.87241"
        height="163.53073"
@@ -82,43 +82,50 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot860"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,21.432802,166.12126)"><flowRegion
-         id="flowRegion862"><rect
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#08bafb;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,19.688722,176.02213)"><flowRegion
+         id="flowRegion862"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#08bafb;fill-opacity:1"><rect
            id="rect864"
            width="505.07626"
            height="86.873131"
            x="282.84271"
-           y="60.29427" /></flowRegion><flowPara
-         id="flowPara866">LinkedIn 628 x 1200 px</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,19.846336,191.52376)"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           y="60.29427"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#08bafb;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara866">twitter 1195 x 598 px</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,12.960451,205.95631)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#3b5998;fill-opacity:1;stroke:none"
        id="flowRoot886"
        xml:space="preserve"><flowRegion
-         id="flowRegion882"><rect
+         id="flowRegion882"
+         style="fill:#3b5998;fill-opacity:1"><rect
            y="60.29427"
            x="282.84271"
            height="137.38075"
            width="646.49762"
-           id="rect880" /></flowRegion><flowPara
-         id="flowPara884">facebook 628 x 1120 px</flowPara></flowRoot>    <flowRoot
+           id="rect880"
+           style="fill:#3b5998;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara884"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">facebook 1120 x 628 px</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot894"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,43.726015,218.50609)"><flowRegion
-         id="flowRegion890"><rect
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#d60400;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,14.291119,233.21781)"><flowRegion
+         id="flowRegion890"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#d60400;fill-opacity:1"><rect
            id="rect888"
            width="646.49762"
            height="137.38075"
            x="282.84271"
-           y="60.29427" /></flowRegion><flowPara
-         id="flowPara892">X 628 x 942 px</flowPara></flowRoot>    <rect
-       y="137.14479"
-       x="1.9374837"
-       height="154.87505"
-       width="313.62503"
+           y="60.29427"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#d60400;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara892">product X 942 x 628 px</flowPara></flowRoot>    <rect
+       y="136.35426"
+       x="1.9407097"
+       height="155.66234"
+       width="313.61859"
        id="rect827"
-       style="opacity:0.5;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.55203986;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98578198;paint-order:normal" />
+       style="opacity:0.5;fill:none;fill-opacity:1;stroke:#08bafb;stroke-width:2.55849195;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
     <rect
        style="opacity:0.5;fill:none;fill-opacity:1;stroke:#007bb6;stroke-width:2.62759471;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect829"
@@ -126,19 +133,32 @@
        height="163.53073"
        x="1.3137974"
        y="132.15549" />
-    <rect
-       style="opacity:0.80500034;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.40813184;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98578198;paint-order:normal"
-       id="rect831"
-       width="98.06031"
-       height="79.559593"
-       x="10.000874"
-       y="143.75835" />
-    <rect
-       y="151.77643"
-       x="18.553499"
-       height="79.559593"
-       width="98.06031"
-       id="rect833"
-       style="opacity:0.80500034;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.40813184;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98578198;paint-order:normal" />
-  </g>
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,14.31179,145.55341)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#0077b5;fill-opacity:1;stroke:none"
+       id="flowRoot841"
+       xml:space="preserve"><flowRegion
+         id="flowRegion837"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0077b5;fill-opacity:1"><rect
+           y="60.29427"
+           x="282.84271"
+           height="82.832527"
+           width="654.5788"
+           id="rect835"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0077b5;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara839">LinkedIn 1200 x 628 px</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot842"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:PixAntiqua;-inkscape-font-specification:PixAntiqua;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,8.0180858,128.16898)"><flowRegion
+         id="flowRegion844"
+         style="fill:#ff0000;fill-opacity:1"><rect
+           id="rect846"
+           width="143.44167"
+           height="70.710678"
+           x="892.97485"
+           y="46.152138"
+           style="fill:#ff0000;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara848"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ff0000;fill-opacity:1">PAGE</flowPara></flowRoot>  </g>
 </svg>
